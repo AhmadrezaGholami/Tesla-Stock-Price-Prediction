@@ -8,7 +8,7 @@
 ✨ Built with **FastAPI**, **PyTorch**, and a sleek UI powered by **Bootstrap, GSAP animations, and FontAwesome icons.**
 
 <div class="animated-text">
-    🚀 For more details, check the <a href="your-github-link-here" style="color: #ff9900; text-decoration: none;">Kaggle</a> to see the training phase!
+    🚀 For more details, check the <a href="https://www.kaggle.com/code/ahmadrezagholami2001/tesla-stock-price-prediction-simple-ann" style="color: #ff9900; text-decoration: none;">Kaggle</a> to see the training phase!
 </div>
 
 ---
@@ -49,6 +49,6 @@ uvicorn main:app --reload
 ---
 
 <div class="animated-text">
-    🚀 For more details, check the <a href="your-github-link-here" style="color: #ff9900; text-decoration: none;">Kaggle</a> to see the training phase!
+    🚀 For more details, check the <a href="https://www.kaggle.com/code/ahmadrezagholami2001/tesla-stock-price-prediction-simple-ann" style="color: #ff9900; text-decoration: none;">Kaggle</a> to see the training phase!
 </div>
 
