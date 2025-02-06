@@ -7,22 +7,6 @@
 🚀 **An AI-powered Stock Price Prediction web app using an Artificial Neural Network (ANN) model trained on historical stock data.**  
 ✨ Built with **FastAPI**, **PyTorch**, and a sleek UI powered by **Bootstrap, GSAP animations, and FontAwesome icons.**
 
-
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-10px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  .animated-text {
-    animation: fadeIn 2s ease-in-out;
-    color: #00ccff;
-    font-weight: bold;
-    font-size: 20px;
-    text-align: center;
-    margin-top: 20px;
-  }
-</style>
-
 <div class="animated-text">
     🚀 For more details, check the <a href="your-github-link-here" style="color: #ff9900; text-decoration: none;">Kaggle</a> to see the training phase!
 </div>
@@ -63,21 +47,6 @@ cd stock-price-predictor
 uvicorn main:app --reload
 ```
 ---
-
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-10px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  .animated-text {
-    animation: fadeIn 2s ease-in-out;
-    color: #00ccff;
-    font-weight: bold;
-    font-size: 20px;
-    text-align: center;
-    margin-top: 20px;
-  }
-</style>
 
 <div class="animated-text">
     🚀 For more details, check the <a href="your-github-link-here" style="color: #ff9900; text-decoration: none;">Kaggle</a> to see the training phase!
